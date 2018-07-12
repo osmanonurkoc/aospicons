@@ -23,6 +23,11 @@
     <item component="ComponentInfo{}" drawable="spotify" />
     <item component="ComponentInfo{}" drawable="teamspeak" />
     <item component="ComponentInfo{}" drawable="stk" />
+    <item component="ComponentInfo{}" drawable="adaway" />
+    <item component="ComponentInfo{}" drawable="fdroid" />
+    <item component="ComponentInfo{}" drawable="omniswitch" />
+    <item component="ComponentInfo{}" drawable="snapseed" />
+    <item component="ComponentInfo{}" drawable="steam" />
     -->
 
     <!-- Iris UI Clock -->
@@ -69,6 +74,11 @@
     <item component="ComponentInfo{org.eksin/com.eksin.activity.TopicIndexActivity}" drawable="eksin" />
     <item component="ComponentInfo{org.lineageos.eleven/com.poupa.vinylmusicplayer.ui.activities.MainActivity}" drawable="music" />
     <item component="ComponentInfo{com.teamspeak.ts3client/.StartGUIFragment}" drawable="teamspeak" />
+    <item component="ComponentInfo{org.adaway/.ui.BaseActivity}" drawable="adaway" />
+    <item component="ComponentInfo{org.fdroid.fdroid/.views.main.MainActivity}" drawable="fdroid" />
+    <item component="ComponentInfo{org.omnirom.omniswitch/.SettingsActivity}" drawable="omniswitch" />
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/.activity.MainActivity}" drawable="steam" />
 
     <!-- Google -->
     <item component="ComponentInfo{com.google.android.GoogleCamera/com.android.camera.CameraLauncher}" drawable="camera" />
