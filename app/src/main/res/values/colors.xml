@@ -7,4 +7,6 @@
 	<color name="telegram_background">#ff2ca5e0</color>
 	<color name="telegramx_background">#ff2f6284</color>
     <color name="music_background">#ffe0e0e0</color>
+    <color name="video_background">#2C3E50</color>
+    <color name="kde_background">#ECF0F1</color>
 </resources>
