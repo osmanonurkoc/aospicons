@@ -10,9 +10,7 @@ I will add more icons and update sources.
 
 ![screenshot](https://image.ibb.co/fUHfGo/Ekran_G_r_nt_s_2018_07_10_20_16_01.png)
 
-
-
-<a href="https://ibb.co/huaWZJ"><img src="https://thumb.ibb.co/huaWZJ/Ekran_G_r_nt_s_2018_07_17_00_09_41.png" alt="Ekran_G_r_nt_s_2018_07_17_00_09_41" border="0"></a>
+[url=https://ibb.co/gPK5Td][img]https://thumb.ibb.co/gPK5Td/Ekran_G_r_nt_s_2018_07_17_00_12_19.png[/img][/url]
 
 
 Thanks AmirZaidi for your app source.
