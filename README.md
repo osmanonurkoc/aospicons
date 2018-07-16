@@ -6,7 +6,7 @@ I added 6 new icons.
 Spotify, Audiofx, Ekşin, SimToolKit, LineageOS Recorder and LineageOS Eleven.
 I will add more icons and update sources.
 
-  #ScreenShots# #Supported Icons#
+  #ScreenShots#  #Supported Icons#
 
 ![screenshot](https://image.ibb.co/fUHfGo/Ekran_G_r_nt_s_2018_07_10_20_16_01.png)
 
