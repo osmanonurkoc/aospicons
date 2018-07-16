@@ -8,9 +8,7 @@ I will add more icons and update sources.
 
   #ScreenShots#  #Supported Icons#
 
-![screenshot](https://thumb.ibb.co/gPK5Td/Ekran_G_r_nt_s_2018_07_17_00_12_19.png)
-
-[url=https://ibb.co/gPK5Td][img]https://thumb.ibb.co/gPK5Td/Ekran_G_r_nt_s_2018_07_17_00_12_19.png[/img][/url]
+![screenshot](https://image.ibb.co/cAgKod/Ekran_G_r_nt_s_2018_07_17_00_12_19.png)
 
 
 Thanks AmirZaidi for your app source.
