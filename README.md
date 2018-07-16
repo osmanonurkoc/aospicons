@@ -8,7 +8,7 @@ I will add more icons and update sources.
 
   #ScreenShots#  #Supported Icons#
 
-![screenshot](https://image.ibb.co/fUHfGo/Ekran_G_r_nt_s_2018_07_10_20_16_01.png)
+![screenshot](https://thumb.ibb.co/gPK5Td/Ekran_G_r_nt_s_2018_07_17_00_12_19.png)
 
 [url=https://ibb.co/gPK5Td][img]https://thumb.ibb.co/gPK5Td/Ekran_G_r_nt_s_2018_07_17_00_12_19.png[/img][/url]
 
